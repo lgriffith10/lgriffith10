@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgriffith10&label=Profile%20views&color=0e75b6&style=flat" alt="lgriffith10" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Symfony with Clean Architecture and DDD**
 
 - 👨‍💻 All of my projects are available at [https://lgriffith-portfolio.netlify.app/](https://lgriffith-portfolio.netlify.app/)
 
