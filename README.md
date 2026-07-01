@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgriffith10&label=Profile%20views&color=0e75b6&style=flat" alt="lgriffith10" /> </p>
 
-- 🌱 I’m currently learning **Symfony with Clean Architecture and DDD**
+- 🌱 I’m currently learning **Angular with Clean Architecture and TDD** on EasyAngularKit
 
 - 👨‍💻 All of my projects are available at [https://lgriffith.fr)
 
 - 📫 How to reach me **griffith.luciano@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny (said by friends and coworkers...)**
+- ⚡ Fun fact **I love Ricard, a french southern drink**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
